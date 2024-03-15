@@ -14,7 +14,7 @@
   }
   
   ::-webkit-scrollbar-track {
-    background: #f1f1f1;
+    background: #322f2f;
   }
   
   .loader_bg {
@@ -498,11 +498,11 @@
   }
   
   .skills-content .right .bootstraps::before {
-    width: 60%;
+    width: 20%;
   }
   
   .skills-content .right .django::before {
-    width: 70%;
+    width: 50%;
   }
   
   /*  Projects  */
